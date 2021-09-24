@@ -1,0 +1,9 @@
+ls - shor list ---> only visible list of file and folder .
+ls - a long list with hidden file and folders will visible date , time, space of bytes and which user data--> in some organisation #ll - a will not work. so will #ls - a & #ls will work.
+whoami --> who loged user will show by using this cmd #whoami.
+pwd (present working dictory)---> to check the which directory we are in.
+. (single .dot ) --> in the folder.
+.. (double ..dot) ---> before the folder.
+cat - create the file and edit the file by using append(>>).
+mkdir(make directory) --> directory called as folder 
+touch - will file
